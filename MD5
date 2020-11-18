@@ -1,0 +1,9 @@
+921c78a821f65315e68727084bd71d1d *DESCRIPTION
+180c5a0482bf04285e9253dbe61046ad *NAMESPACE
+b1eb9154ce208468faa6e6e8328afd91 *R/cron.ci.R
+369ff594f81ceea5b1963c11c2ccc490 *R/cronbach.R
+753b520f71eab38d265ef7ede134c08f *R/cronfree.ci.R
+cb0b4ec6e3c9974a0ad9f37b45bfa3bb *man/Cronbach-package.Rd
+4593fc8a82706fba298d4abf33b4a173 *man/cron.ci.Rd
+aafd94a77692a0b2b02cfe9312ded2fc *man/cronbach.Rd
+b996f2a0c2f93dac50111a26442c0c7a *man/cronfree.ci.Rd
