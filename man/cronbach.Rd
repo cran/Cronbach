@@ -27,8 +27,8 @@ The Cronbach's alpha.
 }
 
 \references{
-Cronbach L. (1951). "Coefficient alpha and the internal structure of tests".
-Psychometrika, 16(3): 297-334.
+Cronbach L. (1951). Coefficient alpha and the internal structure of tests.
+Psychometrika, 16(3): 297--334.
 }
 
 \author{

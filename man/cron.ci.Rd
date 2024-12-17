@@ -36,17 +36,16 @@ A confidence interval for the true value of alpha.
 }
 
 \references{
-Tsagris M., Frangos C.C. and Frangos C.C. (2013). "Confidence intervals for Cronbach's reliability coefficient".
-Recent Techniques in Educational Science, 14-16 May, Athens, Greece.
+Tsagris M., Frangos C.C. and Frangos C.C. (2013). Confidence intervals for Cronbach's reliability coefficient. Recent Techniques in Educational Science, 14-16 May, Athens, Greece.
 http://www.academia.edu/download/32613010/Cronbachs_alpha.pdf
 
-van Zyl J., Neudecker H. and Nel D. (2000). "On the distribution of the maximum likelihood
-estimator of Cronbach's alpha". Psychometrika, 65(3): 271-280
+van Zyl J., Neudecker H. and Nel D. (2000). On the distribution of the maximum likelihood
+estimator of Cronbach's alpha. Psychometrika, 65(3): 271--280
 
-Efron B. and Tibshirani, R.J. (1993). "An introduction to the bootstrap". Chapman & Hall CRC.
+Efron B. and Tibshirani, R.J. (1993). An introduction to the bootstrap. Chapman & Hall CRC.
 
-Cronbach L. (1951). "Coefficient alpha and the internal structure of tests".
-Psychometrika, 16(3): 297-334.
+Cronbach L. (1951). Coefficient alpha and the internal structure of tests.
+Psychometrika, 16(3): 297--334.
 }
 
 \author{

@@ -2,6 +2,8 @@
 
 importFrom("stats", cov, qnorm)
 importFrom("boot", boot, boot.ci)
+importFrom("Rfast", cova)
+
 
 exportPattern("^[[:alpha:]]+")
 exportPattern("^[^\\.]")

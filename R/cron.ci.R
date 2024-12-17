@@ -1,7 +1,7 @@
 cron.ci <- function(x, conf = 0.95, type = "logit", B = 1000){
 
   za <- qnorm( conf + 0.5 * (1 - conf) )
-  s <- cov(x)
+  s <- Rfast::cova(x)
   dm <- dim(x)
   n <- dm[1]   ;  p <- dm[2]
   trs <- sum( diag(s) )
@@ -35,7 +35,8 @@ cron.ci <- function(x, conf = 0.95, type = "logit", B = 1000){
     ci <- boot::boot.ci(b, type = "bca")$bca[4:5]
   }
 
-  names(ci) <- c( paste( 0.5 * (1 - conf), "%", sep = "" ), paste( conf + 0.5 * (1 - conf), "%", sep = "" ) )
+  names(ci) <- c( paste( 0.5 * (1 - conf), "%", sep = "" ),
+                  paste( conf + 0.5 * (1 - conf), "%", sep = "" ) )
   ci
 
 }

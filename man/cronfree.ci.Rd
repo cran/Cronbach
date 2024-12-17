@@ -39,17 +39,17 @@ A confidence interval for the true value of alpha.
 }
 
 \references{
-Tsagris M., Frangos C.C. and Frangos C.C. (2013). "Confidence intervals for Cronbach's reliability coefficient". Recent Techniques in Educational Science, 14-16 May, Athens, Greece.
+Tsagris M., Frangos C.C. and Frangos C.C. (2013). Confidence intervals for Cronbach's reliability coefficient. Recent Techniques in Educational Science, 14-16 May, Athens, Greece.
 http://www.academia.edu/download/32613010/Cronbachs_alpha.pdf
 
-Rodriguez M. C. and Maeda Y. (2006). "Meta-analysis of coefficient alpha".
-Psychological methods, 11(3): 306-322.
+Rodriguez M. C. and Maeda Y. (2006). Meta-analysis of coefficient alpha.
+Psychological methods, 11(3): 306--322.
 
-Koning A. and Franses H. P. (2006). "Confidence intervals for Cronbach's coefficient alpha
-values". Technical report, Erasmus Research Institute of Management-ERIM.
+Koning A. and Franses H. P. (2006). Confidence intervals for Cronbach's coefficient alpha
+values. Technical report, Erasmus Research Institute of Management-ERIM.
 
-Cronbach L. (1951). "Coefficient alpha and the internal structure of tests".
-Psychometrika, 16(3): 297-334.
+Cronbach L. (1951). Coefficient alpha and the internal structure of tests.
+Psychometrika, 16(3): 297--334.
 }
 
 \author{
